@@ -14,6 +14,17 @@ Technologies Used
 - Stellarium API - For constellation and star mapping
 - GitHub - version control and collaboration
 
+Features:
+- Real time star & constellation map
+- Weather overlay
+- Fun facts & educational snippets about stars and astronomy
+- Local sky view with localized information of the Kingdom of Bahrain
+
+Project Developed by:
+Habiba Maher A01222
+
+This project is for educational purposes only.
+
 How to Run the project:
 1- Clone the repository:
  ```bash
